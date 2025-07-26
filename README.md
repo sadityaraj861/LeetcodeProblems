@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/0371-sum-of-two-integers) |
+| [1873-longest-nice-substring](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/1873-longest-nice-substring) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -54,4 +55,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+## Hash Table
+|  |
+| ------- |
+| [1873-longest-nice-substring](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/1873-longest-nice-substring) |
+## String
+|  |
+| ------- |
+| [1873-longest-nice-substring](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/1873-longest-nice-substring) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1873-longest-nice-substring](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/1873-longest-nice-substring) |
+## Sliding Window
+|  |
+| ------- |
+| [1873-longest-nice-substring](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/1873-longest-nice-substring) |
 <!---LeetCode Topics End-->
