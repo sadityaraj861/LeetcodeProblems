@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/0001-two-sum) |
 | [0045-jump-game-ii](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/0045-jump-game-ii) |
 | [0088-merge-sorted-array](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/0118-pascals-triangle) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/0001-two-sum) |
 | [1873-longest-nice-substring](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/1873-longest-nice-substring) |
 ## String
 |  |
