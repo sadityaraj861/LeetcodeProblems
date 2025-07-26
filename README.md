@@ -44,12 +44,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/0045-jump-game-ii) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1829-maximum-units-on-a-truck](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/1829-maximum-units-on-a-truck) |
 ## Stack
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/0232-implement-queue-using-stacks) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Design
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1818-maximum-score-from-removing-substrings](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1873-longest-nice-substring](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/1873-longest-nice-substring) |
 ## Divide and Conquer
 |  |
