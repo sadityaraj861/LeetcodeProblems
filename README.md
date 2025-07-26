@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/0070-climbing-stairs) |
 | [0371-sum-of-two-integers](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/0371-sum-of-two-integers) |
 | [1013-fibonacci-number](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/1013-fibonacci-number) |
+| [1806-count-of-matches-in-tournament](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/1806-count-of-matches-in-tournament) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -161,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/0547-number-of-provinces) |
+## Simulation
+|  |
+| ------- |
+| [1806-count-of-matches-in-tournament](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/1806-count-of-matches-in-tournament) |
 <!---LeetCode Topics End-->
