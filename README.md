@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/0045-jump-game-ii) |
 | [0088-merge-sorted-array](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/0088-merge-sorted-array) |
 | [0198-house-robber](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0300-longest-increasing-subsequence](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/0300-longest-increasing-subsequence) |
 | [1829-maximum-units-on-a-truck](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/1829-maximum-units-on-a-truck) |
@@ -104,10 +105,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -135,4 +138,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/0300-longest-increasing-subsequence) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
