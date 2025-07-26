@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/0045-jump-game-ii) |
 | [0088-merge-sorted-array](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/0215-kth-largest-element-in-an-array) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/0300-longest-increasing-subsequence) |
 ## Greedy
