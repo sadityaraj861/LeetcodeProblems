@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/0070-climbing-stairs) |
 | [0371-sum-of-two-integers](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/0371-sum-of-two-integers) |
 ## Bit Manipulation
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/0045-jump-game-ii) |
+| [0070-climbing-stairs](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/0070-climbing-stairs) |
 ## Greedy
 |  |
 | ------- |
@@ -113,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/0215-kth-largest-element-in-an-array) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
