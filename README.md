@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0300-longest-increasing-subsequence](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/0300-longest-increasing-subsequence) |
+| [1829-maximum-units-on-a-truck](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/1829-maximum-units-on-a-truck) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Segment Tree
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/0045-jump-game-ii) |
+| [1829-maximum-units-on-a-truck](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/1829-maximum-units-on-a-truck) |
 ## Stack
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/0215-kth-largest-element-in-an-array) |
+| [1829-maximum-units-on-a-truck](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/1829-maximum-units-on-a-truck) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
