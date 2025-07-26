@@ -17,4 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+## Math
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/0371-sum-of-two-integers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
