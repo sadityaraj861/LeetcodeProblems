@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/0070-climbing-stairs) |
 | [0371-sum-of-two-integers](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/0371-sum-of-two-integers) |
 | [1013-fibonacci-number](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/1013-fibonacci-number) |
@@ -87,10 +88,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/0013-roman-to-integer) |
 | [1873-longest-nice-substring](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/1873-longest-nice-substring) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/0013-roman-to-integer) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1873-longest-nice-substring](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/1873-longest-nice-substring) |
 ## Divide and Conquer
