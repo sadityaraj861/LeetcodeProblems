@@ -9,36 +9,27 @@
  * }
  */
 class Solution {
-    public int Size(ListNode head) {
-        ListNode temp = head;
-        int size = 0;
-
-        while (temp != null) {
-            size++;
-            temp = temp.next;
-        }
-        return size;
-    }
 
     public ListNode removeNthFromEnd(ListNode head, int n) {
         ListNode slow = head;
         ListNode fast = head;
 
-        int size = Size(head);
-
-        if (size == n) {
-            return head.next;
-        } else {
-            for (int i = 1; i <= n + 1; i++) {
-                fast = fast.next;
+        // Move fast n steps ahead
+        for (int i = 0; i <= n; i++) {
+            if (fast == null) {
+                return head.next;
             }
 
-            while (fast != null) {
-                slow = slow.next;
-                fast = fast.next;
-            }
-            slow.next = slow.next.next;
-            return head;
+            fast = fast.next;
         }
+
+        //if fast become null means clearing we are trying to remove head node.
+
+        while (fast != null) {
+            slow = slow.next;
+            fast = fast.next;
+        }
+        slow.next = slow.next.next;
+        return head;
     }
 }
