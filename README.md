@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/0021-merge-two-sorted-lists) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/0237-delete-node-in-a-linked-list) |
 ## Two Pointers
 |  |
@@ -89,11 +90,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/0088-merge-sorted-array) |
+| [0160-intersection-of-two-linked-lists](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/0160-intersection-of-two-linked-lists) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/0013-roman-to-integer) |
+| [0160-intersection-of-two-linked-lists](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/0160-intersection-of-two-linked-lists) |
 | [1873-longest-nice-substring](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/1873-longest-nice-substring) |
 ## String
 |  |
