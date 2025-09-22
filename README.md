@@ -197,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
