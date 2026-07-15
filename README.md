@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/0045-jump-game-ii) |
 | [0088-merge-sorted-array](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/0118-pascals-triangle) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/0215-kth-largest-element-in-an-array) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0908-middle-of-the-linked-list](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Hash Table
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0300-longest-increasing-subsequence](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/0300-longest-increasing-subsequence) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sadityaraj861/LeetcodeProblems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Union Find
